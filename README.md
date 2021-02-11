@@ -1,8 +1,8 @@
 [![Build Status](https://travis-ci.com/marmolpen3/decideEGC.svg?branch=master)](https://travis-ci.com/marmolpen3/decideEGC)
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/e9dcbbb8d9454f8092addf6f113e75c4)](https://www.codacy.com/gh/marmolpen3/decideEGC/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=marmolpen3/decideEGC&amp;utm_campaign=Badge_Grade)[![Codacy Badge](https://app.codacy.com/project/badge/Coverage/e9dcbbb8d9454f8092addf6f113e75c4)](https://www.codacy.com/gh/marmolpen3/decideEGC/dashboard?utm_source=github.com&utm_medium=referral&utm_content=marmolpen3/decideEGC&utm_campaign=Badge_Coverage)
 
-Plataforma voto electrónico educativa
-=====================================
+Plataforma voto electrónico educativa, prueba
+==========================================================
 
 El objetivo de este proyecto es implementar una plataforma de voto
 electrónico seguro, que cumpla una serie de garantías básicas, como la
